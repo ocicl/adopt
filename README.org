@@ -4,6 +4,6 @@ A Damn OPTion parsing library.
 
 |---------+--------------------------------------|
 | source  | git:https://github.com/sjl/adopt.git |
-| commit  | 7c676eb                              |
+| commit  | 2b340c4                              |
 | systems | adopt                                |
 |---------+--------------------------------------|
